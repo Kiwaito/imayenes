@@ -3,7 +3,7 @@ Guía por [@nami-stuff](https://www.tumblr.com/nami-stuff), editada por [@knowny
 
 ### ¿Cómo instalo la galería?
 1. Crea una cuenta de **Github**.
-2. Crea una *fork* de [ESTE](https://github.com/knownyurimaxxer/utility-gallery) repositorio. Se hace con el botón de *fork* (asegúrate que `Copy the main branch only` esté marcado). Debe ser un repositorio público.
+2. Crea una *fork* de [ESTE](https://github.com/knownyurimaxxer/utility-gallery) repositorio. Se hace con el botón de **fork** (asegúrate que `Copy the main branch only` esté marcado). Debe ser un repositorio público.
 3. Si quieres editar el *HTML* o *CSS* para darles tu estilo personal, es el momento. Los archivos a editar son `.github/workflows/resources/root-index.html`, `.github/workflows/resources/branch-index.html` y `.github/workflows/resources/style.css`.
 
    *¡Si vas a realizar una fork base para tu idioma, recuerda añadirte en los créditos! (y editar el enlace en este `README.md` para que apunte a tu repositorio).*
@@ -32,7 +32,7 @@ Guide by [@nami-stuff](https://www.tumblr.com/nami-stuff), edited by [@knownyuri
 
 ### How do I install the gallery?
 1. Create a **Github** account.
-2. Create a *fork* of [THIS](https://github.com/knownyurimaxxer/utility-gallery) repository. This is done with the *fork* button (make sure `Copy the main branch only` is checked). Must be a public repository.
+2. Create a *fork* of [THIS](https://github.com/knownyurimaxxer/utility-gallery) repository. This is done with the **fork** button (make sure `Copy the main branch only` is checked). Must be a public repository.
 3. If you want to edit the *HTML* or *CSS* to give them your personal style, now is the time. The files to edit are `.github/workflows/resources/root-index.html`, `.github/workflows/resources/branch-index.html` and `.github/workflows/resources/style.css`.
 
    *If you're going to make a base fork for your language, remember to add yourself to the credits! (and edit the link in this `README.md` so it points to your repository).*
