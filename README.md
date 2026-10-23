@@ -1,5 +1,5 @@
 ## Español
-Guía por [@nami-stuff](https://www.tumblr.com/nami-stuff), editada por [@knownyurimaxxer](https://www.tumblr.com/knownyurimaxxer). Puedes ver una *live demo* de la galería [AQUÍ](https://knownyurimaxxer.github.io/utility-gallery/).
+Guía por [@nami-stuff](https://www.tumblr.com/nami-stuff), editada por [@knownyurimaxxer](https://www.tumblr.com/knownyurimaxxer). Puedes ver una *live demo* de la galería [AQUÍ](https://knownyurimaxxer.github.io/gallery/).
 
 ### ¿Cómo instalo la galería?
 1. Crea una cuenta de **Github**.
@@ -28,7 +28,7 @@ La galería funciona usando ramas para cada conjunto de imágenes, lo que genera
 > **NOTA:** Una vez creada la rama de un subgrupo, puedes seguir usándola para añadir o modificar gráficos. Si cambias un archivo por otro con el mismo nombre, se reemplazará ahí dónde lo estés usando. <ins>Vigila no borrar tu rama (o ninguna otra), o perderás todo</ins>.
 
 ## English
-Guide by [@nami-stuff](https://www.tumblr.com/nami-stuff), edited by [@knownyurimaxxer](https://www.tumblr.com/knownyurimaxxer). You can view a *live demo* of the gallery [HERE](https://knownyurimaxxer.github.io/utility-gallery/).
+Guide by [@nami-stuff](https://www.tumblr.com/nami-stuff), edited by [@knownyurimaxxer](https://www.tumblr.com/knownyurimaxxer). You can view a *live demo* of the gallery [HERE](https://knownyurimaxxer.github.io/gallery/).
 
 ### How do I install the gallery?
 1. Create a **Github** account.
